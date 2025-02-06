@@ -1,16 +1,17 @@
-## Hi there 👋
+💻 Hello, World! I’m JTH👋
 
-<!--
-**JTH1503/JTH1503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de Ingeniería de Software apasionado por el desarrollo backend, la arquitectura cloud y las tecnologías escalables. Actualmente, me enfoco en aprender y aplicar buenas prácticas en Desarrollo Web, DevOps y Computación en la Nube.
 
-Here are some ideas to get you started:
+🚀 Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Backend: Node.js (NestJS, Express), Rust, Go
+📌 Frontend: Angular, React, TypeScript
+📌 Bases de Datos: Neo4j, PostgreSQL, MongoDB
+📌 Cloud & DevOps: AWS (EC2, S3, Lambda, CloudFront, WAF), Docker, Kubernetes
+📌 Pruebas & Calidad: Jest, Vitest, Cypress, SonarLint
+📌 Control de Versiones: Git, GitHub, GitLab
+
+🌱 Actualmente Aprendiendo
+	•	Implementación de DDD y arquitectura hexagonal en aplicaciones escalables
+	•	Estrategias avanzadas de seguridad y autenticación en la nube
+	•	Optimizaciones de carga y rendimiento en aplicaciones frontend y backend
